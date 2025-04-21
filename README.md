@@ -73,3 +73,13 @@ DSA_Tracker_React/
 ├── public/             # Static files
 └── package.json        # Project dependencies and scripts
 ```
+
+## Screenshots
+
+<img width="1465" alt="Screenshot 2025-04-21 at 10 44 02 PM" src="https://github.com/user-attachments/assets/5ac443c7-767a-4c07-a788-f49da9ea4b2e" />
+
+<img width="1467" alt="Screenshot 2025-04-21 at 10 44 25 PM" src="https://github.com/user-attachments/assets/e2ff874b-2b80-4108-a780-9b50c7f639f5" />
+
+
+
+
