@@ -1,4 +1,4 @@
-import React, { useContext, useState, useEffect, useCallback, useMemo } from "react";
+import React, { useContext, useState, useEffect, useCallback, useMemo } from "react"; 
 import QuestionsContext from "../context/questions/QuestionsContext";
 import HorizontalProgressBar from "./HorizontalProgressBar";
 import { useParams } from "react-router-dom";
